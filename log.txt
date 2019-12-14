@@ -1,0 +1,53 @@
+nullInitialized board
+Pieces created
+Starting a match, Player1: 8pieces, Player2: 8pieces. 
+Chosen move is invalid
+Player1 moved with Swordman from [3,6] to [3,5]
+Player2 moved with Swordman from [4,1] to [4,2]
+Player1 moved with Swordman from [4,6] to [4,5]
+Player2 moved with Swordman from [5,1] to [5,2]
+Player1 moved with Swordman from [3,5] to [3,4]
+Player2 moved with Swordman from [4,2] to [4,3]
+Player1 moved with Swordman from [4,5] to [4,4]
+Player2 moved with Swordman from [5,2] to [5,3]
+Player1 moved with Swordman from [5,6] to [5,5]
+Player2 moved with Swordman from [3,1] to [3,2]
+Player1 moved with Swordman from [3,4] to [3,3]
+Swordman from Player2 killed Swordmanfrom Player 1
+Current score, Player1: 8pieces, Player2: 8pieces. 
+Player2 moved with Swordman from [4,3] to [4,4]
+Player1 moved with Swordman from [5,5] to [5,4]
+Swordman from Player2 killed Swordmanfrom Player 1
+Current score, Player1: 7pieces, Player2: 8pieces. 
+Player2 moved with Swordman from [5,3] to [5,4]
+Swordman from Player1 killed Swordmanfrom Player 2
+Current score, Player1: 6pieces, Player2: 8pieces. 
+Player1 moved with Swordman from [3,3] to [3,2]
+Mage from Player2 killed Swordmanfrom Player 1
+Current score, Player1: 6pieces, Player2: 7pieces. 
+Player2 moved with Mage from [3,0] to [3,2]
+Player1 moved with Mage from [3,7] to [3,5]
+Player2 moved with Swordman from [4,4] to [4,5]
+Chosen move is invalid
+Player1 moved with Archer from [5,7] to [5,5]
+Swordman from Player2 killed Magefrom Player 1
+Current score, Player1: 5pieces, Player2: 7pieces. 
+Player2 moved with Swordman from [4,5] to [3,5]
+Player1 moved with Mage from [4,7] to [4,5]
+Swordman from Player2 killed Archerfrom Player 1
+Current score, Player1: 4pieces, Player2: 7pieces. 
+Player2 moved with Swordman from [5,4] to [5,5]
+Player1 moved with Swordman from [2,6] to [2,5]
+Swordman from Player2 killed Swordmanfrom Player 1
+Current score, Player1: 3pieces, Player2: 7pieces. 
+Player2 moved with Swordman from [3,5] to [2,5]
+Player1 moved with Mage from [4,5] to [5,6]
+Swordman from Player2 killed Magefrom Player 1
+Current score, Player1: 2pieces, Player2: 7pieces. 
+Player2 moved with Swordman from [5,5] to [5,6]
+Player1 moved with Archer from [2,7] to [2,6]
+Swordman from Player2 killed Archerfrom Player 1
+Current score, Player1: 1pieces, Player2: 7pieces. 
+Player2 moved with Swordman from [2,5] to [2,6]
+Game ends. WINNER: Player 2
+
