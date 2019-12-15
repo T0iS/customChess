@@ -33,7 +33,7 @@ public class Main extends Application {
 
     public Tile activeTile = null;
     public boolean ActivePlayer = true;
-    public String log;
+    public String log = "Initialized board\n" ;
 
     private Tile[][] board = new Tile[WIDTH][HEIGHT];
     private Group tileGroup = new Group();
@@ -64,7 +64,7 @@ public class Main extends Application {
 
             }
         }
-        log += "Initialized board\n";
+
         createPieces();
         log += "Pieces created\n";
         log += "Starting a match, Player1: " + String.valueOf(P1count) + " pieces, Player2: " + String.valueOf(P2count) + " pieces. \n";
